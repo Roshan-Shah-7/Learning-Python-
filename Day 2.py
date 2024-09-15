@@ -74,7 +74,3 @@
 #5: program to formate the following letter using escape sequence characters
 # letter = "Dear Roshan,\nThis python course is nice.\nThank!"
 # print(letter)
-
-
-
-######################################################################
